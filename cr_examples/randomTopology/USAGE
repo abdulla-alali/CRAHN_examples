@@ -1,0 +1,4 @@
+
+Lanch:
+
+ /NS_FOLDER/ns test-random-topology.tcl [NUMBER_CONNECTIONS] [RATE, Kbs] [SEED]
